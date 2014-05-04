@@ -1,4 +1,5 @@
-*.py[co]
+*.pyc
+*.pyo
 
 # Default development database
 devdata.db
@@ -14,6 +15,7 @@ build
 
 # Installer logs
 pip-log.txt
+.installed.cfg
 
 # Unit test / coverage reports
 .coverage
